@@ -19,7 +19,7 @@ h1 a:hover {text-decoration: underline;}
 	margin-right: 10px;
 }
 
-#wrapper  { width: 820px; margin: 0 auto;}
+#wrapper  { width: 100%; margin: 0 auto;}
 
 #content {
 	padding: 50px;
